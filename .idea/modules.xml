@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Book_NeuroevolutionThroughErlang.iml" filepath="$PROJECT_DIR$/.idea/Book_NeuroevolutionThroughErlang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch_6/Ch_6.iml" filepath="$PROJECT_DIR$/Ch_6/Ch_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch_7/Ch_7.iml" filepath="$PROJECT_DIR$/Ch_7/Ch_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch_8/Ch_8.iml" filepath="$PROJECT_DIR$/Ch_8/Ch_8.iml" />
     </modules>
   </component>
 </project>
